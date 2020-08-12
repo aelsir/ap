@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [Code_ Sudan]({{ "/" | relative_url }})
 
-Harvard University\\
+Learn code, have fun\\
 2019–2020
